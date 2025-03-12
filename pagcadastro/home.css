@@ -1,0 +1,35 @@
+body{
+    min-height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    width:100%;
+}
+.header{
+    background-color: green;
+    color: white;
+    text-align: center;
+    
+    
+    
+}
+.caixa{
+    padding:70px;
+    background-color: white;
+    font-size: 24px;
+    border-radius: 25px;
+    width: 100%;
+    max-width: 450px;
+    margin: 14px;
+}
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    
+}
+.caixa input{
+border-radius: 5px;
+border: 1px solid rgb(170, 167, 167)
+}
